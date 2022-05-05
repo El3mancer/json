@@ -2,10 +2,10 @@
     "tokens": [
         {
             "id": 0,
-            "description": "Mollector Builder",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "Mollector Builder 0"
+            "description": "Mollector NFTs",
+            "external_url": "https://mollector.com",
+            "image": "https://ipfs.io/ipfs/QmQZgXyemuyNTt8ZMUB5owgi7Jqcokesyp6HZmDTQzJNum?filename=001.png",
+            "name": "Mollector NFT"
         },
         {
             "id": 1,
